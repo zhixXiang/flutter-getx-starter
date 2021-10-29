@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 Fork this project to your own warehouse:
 
 ```
-git clone https://github.com/zhixXiang/bulma-gulp-starter.git
+git clone https://github.com/zhixXiang/flutter-getx-starter.git
 ```
 
 **Step 2:**
